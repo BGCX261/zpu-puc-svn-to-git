@@ -1,0 +1,143 @@
+/* 
+    Document   : layout
+    Created on : 2011-12-4, 22:19:29
+    Author     : nino
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+ body 
+ {
+     text-align:center; 
+     background-image:url(background.jpg);
+     background-repeat: no-repeat;
+     font-family: 'Times New Roman',Times,serif;
+     margin:0; 
+     padding:0;
+     height: 500px;
+}
+
+ h1 {
+     text-align:center;    
+     font-weight:normal; 
+     font: 3em Georgia, "Times New Roman", Times, serif; 
+     align:center; 
+     margin:1em 0 0.5em 0; 
+     font-size: 50px;
+ }
+ 
+table {
+	border-collapse:collapse;
+	margin:10px;
+}
+
+.tablecenter {
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+#container{
+	width:1024px;
+	margin:20px auto;
+        margin-bottom: 0px;
+/*	background-color:#f5f5f3*/;
+	min-height:450px;
+}
+
+#page{
+    margin-left:auto;
+    margin-right:auto;
+    width:950px;
+    }
+
+#adminlogin{
+
+    min-height: 304px;
+    padding: 48px 0 48px 490px;
+    position: relative;
+    width: 327px;
+    z-index: 1;
+    font-family: 'Times New Roman',Times,serif;
+}
+
+#footer{  
+    top: 580px;
+    right: 62px;
+    text-align:center; 
+    position:absolute;
+    border: 0 none;
+    clear: both;
+    height: 40px; 
+    width: 300px;
+    margin: 10px 417px 0px 417px;
+    padding: 5px 0 5px 5px;
+ }
+
+ #adminproduct{
+        font-weight:normal; 
+        align:center; 
+        margin:1.5em 0 0.5em 0; 
+     
+     font-family: 'Times New Roman',Times,serif;
+    position: relative;
+}
+ 
+#customerlogin{
+
+    min-height: 304px;
+    padding: 48px 0 48px 490px;
+    position: relative;
+    width: 327px;
+    z-index: 1;
+    font-family: 'Times New Roman',Times,serif;
+}
+
+#customerregister{
+
+    min-height: 304px;
+    padding: 48px 0 48px 490px;
+    position: relative;
+    width: 327px;
+    z-index: 1;
+    font-family: 'Times New Roman',Times,serif;
+}
+
+
+th { 
+font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color: #4f6b72; 
+border: 1px solid #C1DAD7; 
+letter-spacing: 2px; 
+text-transform: uppercase; 
+text-align: center; 
+padding: 6px 6px 6px 12px; 
+background: #CAE8EA no-repeat; 
+min-width: 120px;
+} 
+
+td { 
+border: 1px solid #C1DAD7;  
+font-size:18px; 
+padding: 6px 6px 6px 12px; 
+color: #4f6b72; 
+min-width: 120px;
+} 
+
+a:link { 
+    font-size:16px; 
+    color: #2180BC; 
+    text-decoration:none;
+}
+
+#signout{
+    margin-left: 1100px;
+}

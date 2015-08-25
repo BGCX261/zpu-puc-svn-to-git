@@ -1,0 +1,13 @@
+01|sweet and sour soup|sweet and sour tofu soup|healthy and tasty|1.75
+02|egg soup|soup with chewd egg|healthy and tasty|1.95
+03|wonton soup|soup with wontons|healthy and tasty|2.25
+04|spicy tofu|tofu and spicy sauce|healthy and tasty|8.95
+05|beef brockly|beef chicken and brockly in brown sauce|healthy and tasty|9.95
+06|chicken chomein|chichen and noodle in with sauce|healthy and tasty|9.95
+07|ice cream|milk suger and powder|healthy and tasty|2.25
+08|muffin|choclate powder|healthy and tasty|2.15
+09|italian desert|desert in italian sauce|healthy and tasty|1.95
+10|merlot|red win|healthy and tasty|3.25
+11|bud light|best seller beer|healthy and tasty|2.75
+12|scotch|best seller wine|healthy and tasty|3.75
+
